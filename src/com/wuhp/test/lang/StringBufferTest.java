@@ -1,4 +1,4 @@
-package com.anynw.lang;
+package com.wuhp.lang;
 
 /**
  *
